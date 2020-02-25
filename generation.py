@@ -52,18 +52,3 @@ while true
 	mapTmp = map
 	os.system("clear")
 	draw_map(map)
-
-
-#16 odd/min
-#tętno 96/min
-#saturacja 96%
-#110/60
-#130mg glukoza
-
-#czarny l - biało-brąz
-#czerw - czerw
-
-#ziel - ziel
-#fiol - biało-nieb
-#brąz - brąz
-#pomar - pomar
